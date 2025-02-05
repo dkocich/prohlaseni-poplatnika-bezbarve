@@ -1,2 +1,1 @@
-# prohlaseni-poplatnika-bezbarve
-save your printer's ink...
+# Prohlášení poplatníka - verze bez barevného pozadí
